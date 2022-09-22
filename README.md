@@ -1,2 +1,5 @@
-##### Fonte para ser instalada
-expo install expo-font @expo-google-fonts/montserrat
+# React Native App created based on Alura's course 
+
+##### Packages requirements
+expo-font @expo-google-fonts/montserrat
+expo-app-loading
